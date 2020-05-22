@@ -10,7 +10,16 @@
   // page size
 
 
-// const [] = useTable({
+// const [table] = useTable({
 //   cols: {},
 //   rows: {},
+//   pageSize: 10,
 // });
+
+// table.sort();
+// table.filter();
+// table.page.go();
+// table.page.current;
+// table.page.setSize();
+// table.cols
+// table.rows (paginated)

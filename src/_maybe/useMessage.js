@@ -13,5 +13,5 @@
 
 
 // const id = messages.add({}, timeout);
-// messages.delete(id);
+// messages.remove(id);
 // messages.flush();
